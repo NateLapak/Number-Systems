@@ -1,5 +1,5 @@
 # Number-Systems
-![Number systems image] (NumberSystems.jpeg)
+![Number systems image] (NumberSystems.png)
 
 Simple java program that converts decimal to binary, octal and hexadecimal starting at 1 and ending at 256.
 
