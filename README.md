@@ -1,5 +1,5 @@
 # Number-Systems
-![Different number systems](https://github.com/[NateLapak]/[Number-Systems]/blob/[Master]/NumberSystems.pngraw=true)
+![Different number systems](https://github.com/[NateLapak]/[Number-Systems]/blob/[Master]/NumberSystems.png)
 
 Simple java program that converts decimal to binary, octal and hexadecimal starting at 1 and ending at 256.
 
