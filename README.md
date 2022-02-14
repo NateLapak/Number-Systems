@@ -1,5 +1,4 @@
 # Number-Systems
-![Different number systems](https://github.com/[NateLapak]/[Number-Systems]/blob/[Master]/NumberSystems.png)
 
 # Brief description
 Simple java program that converts decimal to binary, octal and hexadecimal starting at 1 and ending at 256.
@@ -17,3 +16,5 @@ This project was part of my CTS 30 high school course. I practiced programming i
 uses in computer science. This is more of a minor project that I thought I would upload to github because I enjoyed making it and it demonstrates I can
 program in Java!
 
+# Author
+Created by Nathan Lapak
