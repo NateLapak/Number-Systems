@@ -25,20 +25,18 @@
   <img src="NumberSystems.png" alt="Logo" width="225" height="175">
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-This project converts displays a table that converts decimal numbers into binary, octal and hexadecimal.
+# About The Project
+This project converts displays a table that converts decimal numbers into binary, octal and hexadecimal. This was an assignment for my CTS 30 course and I wanted
+to upload this assignment to github because I thought it was enjoyable to make and to demonstrate that I am capable of programming in Java.
 
-### Built With
-I made this java program using just plain old java
-<p align="right">(<a href="#top">back to top</a>)</p>
+# Built With
+This program was made using the online IDE inside of CodeHS and the programming language Java.
 
 <!-- CONTACT -->
-## Contact
-Nathan Lapak - nathan.lapak@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+# Contact
+Nathan Lapak - nathan.lapak@gmail.com <br>
+Project Link: [https://github.com/NateLapak/Number-Systems](https://github.com/NateLapak/Number-Systems)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
