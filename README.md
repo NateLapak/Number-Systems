@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="NumberSystems.png" alt="Logo" width="250" height="250">
+  <img src="NumberSystems.png" alt="Logo" width="225" height="175">
 </div>
 
 
