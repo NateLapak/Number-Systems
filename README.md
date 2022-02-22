@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="NumberSystems.png" alt="Logo" width="225px" height="175px">
+  <img src="NumberSystem.jpeg" alt="Logo" width="350px" height="200px">
 </div>
 
 <!-- ABOUT THE PROJECT -->
