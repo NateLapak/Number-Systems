@@ -1,28 +1,10 @@
 # Number System in Java
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="NumberSystems.png" alt="Logo" width="225" height="175">
+  <img src="NumberSystems.png" alt="Logo" width="225px" height="175px">
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -31,7 +13,11 @@ This project converts displays a table that converts decimal numbers into binary
 to upload this assignment to github because I thought it was enjoyable to make and to demonstrate that I am capable of programming in Java.
 
 # Built With
-This program was made using the online IDE inside of CodeHS and the programming language Java.
+This section contains all the libraries, modules and programming languages I used to create this project
+
+* [CodeHS](https://codehs.com/)
+* [Java](https://www.java.com/en/)
+
 
 <!-- CONTACT -->
 # Contact
